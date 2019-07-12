@@ -1,18 +1,17 @@
-===============
-Sphinx Tutorial
-===============
+=========
+Build Log
+=========
 
-Welcome to the Introduction to Sphinx & Read the Docs.
-This tutorial will walk you through the initial steps
-writing reStructuredText and Sphinx,
-and deploying that code to Read the Docs.
+Welcome to the Bodswirth collection of Build Logs.
+This guide will walk you through the steps followed
+to bring various projects to completion.
 
-Please provide feedback to `@ericholscher`_.
+Please provide feedback to `@darrowco`_.
 
-.. _@ericholscher: http://twitter.com/ericholscher
+.. _@darrowco: http://bodswirth.com
 
-Schedule
---------
+List of Build Logs
+------------------
 
 * 9-9:30 Introduction to the Tutorial
 * 9:30-9:50 :doc:`start`
